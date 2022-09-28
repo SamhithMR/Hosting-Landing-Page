@@ -4,7 +4,7 @@ Built this **Completly Responsive** Homepage just by using HTML and CSS only.
 <br>
 
 ## 🔗Demo Link
-https://samhith011.netlify.app/
+https://samhith11.netlify.app/
 <br>
 
 ## 📌 Tech Stack
